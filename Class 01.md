@@ -9,7 +9,7 @@ Running JavaScript outside a browser means you are using node.js technology to e
      - Modules: - libraries for Node.js.
                 - modules are in one-to-one correspondence.
 
-     - Package: - one or more modul      
+     - Package: - one or more module       
 
      ### In short, all modules are packages, but not all packages are meant to be used as modules.     
 
