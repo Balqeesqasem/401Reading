@@ -11,7 +11,7 @@ READ # | LINK
 Read01 | [Read01](https://balqeesqasem.github.io/401Reading/Engineering-Topics)
 Read02 | [Read02](https://balqeesqasem.github.io/401Reading/Class%2001)
 Read03 | [Read03](https://balqeesqasem.github.io/401Reading/class02)
-Read04 | [Read04]()
+Read04 | [Read04](https://balqeesqasem.github.io/401Reading/class03)
 Read05 | [Read05]()
 Read06 | [Read06]()
 Read07 | [Read07]()
