@@ -22,7 +22,3 @@
 
   - A RESTful Endpoint” is a URI that identifies the resource. When addressed with a proper method, you are able to effect state. In normal terms, this means “Performing CRUD operations over HTTP
 
-
- ### Swagger
-  
-  - Open-source software framework to helps developers design, build, document, and consume RESTful web services.
