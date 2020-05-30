@@ -27,4 +27,39 @@
       In Traversal we are not able to use For loop or forEach because  we will depend on the Next value  in each node to guide us where the next reference is pointing , but it's allow as to use the While loop in this way we will keep check if the next node not null and wen we reach the node that is null a NullReferenceException  gets thrown and our program will crash/end.
 
 
+[1] -> [2] -> [3] -> null : Singly Linked List  (uni -direction.)
+// Doubly Linked List : Bi-directional 
+// nodes ?
+element that has a value + has a next value (pointer) : connection
+// set of nodes connected to each other:
+one direction  : uni -direction.
+{	value: 1,
+	next: {
+		value: 2, 
+		next: {
+			value: 3,
+			next: null
+		}
+	}
+}
+// Head: first node
+// Tail: last node :::::>>>> (next : null)
+—————————————————————————————————————————————
+BIG O Notation:
+ways to describe the complexity and efficiency of algorithm (without Running it)
+time and space complexity;
+Time: Traversal 
+Space: Storage.
+O(1) : constant  —> Objects/ Hashmaps
+var rawan = {name: 'rawan'};
+// add another prop
+rawan.email = 'email@email.com;
+O(n) :Linear -> Linked List
+let arr = [1, 2, 3, 4] // searching for 3 : one loop,
+1- worst case scenario 
+2- imagine huge number millions …
+O(n log(n)) : logarithmic : divide and conquer : Binary Search Tree.
+O(n^2) : two loops inside of each other <<<< — 
+—————————————————————————————————————————————
+
             
