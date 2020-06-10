@@ -15,5 +15,5 @@
               - Remote service (i.e. Google) contacts the application with a one-time-use Code
               - The application calls back to a special address on the remote service to exchange that Code for a Token.
               - Once the token has been granted, the application will then be able to contact the remote service, using that Token to access information on behalf of the user    
-              
-               
+
+               https://balqeesqasem.github.io/401Reading/class12
