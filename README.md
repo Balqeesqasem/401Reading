@@ -38,6 +38,7 @@ Read28 | [Read28](https://balqeesqasem.github.io/401Reading/class31)
 Read29 | [Read29](https://balqeesqasem.github.io/401Reading/class32)
 Read30 | [Read30](https://balqeesqasem.github.io/401Reading/class33)
 Read31 | [Read31](https://balqeesqasem.github.io/401Reading/class34)
+Read32 | [Read32](https://balqeesqasem.github.io/401Reading/class35)
 
 
 * Balqees Mohammad 
